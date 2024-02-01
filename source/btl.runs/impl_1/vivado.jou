@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.2.2 (64-bit)
+# SW Build 3788238 on Tue Feb 21 20:00:34 MST 2023
+# IP Build 3783773 on Tue Feb 21 23:41:56 MST 2023
+# Start of session at: Fri May  5 22:42:16 2023
+# Process ID: 20092
+# Current directory: D:/Documents/HCMUT/Year 1/Semester 2/Logic Design - Lab/btl/btl.runs/impl_1
+# Command line: vivado.exe -log PWM_Generator_Verilog.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source PWM_Generator_Verilog.tcl -notrace
+# Log file: D:/Documents/HCMUT/Year 1/Semester 2/Logic Design - Lab/btl/btl.runs/impl_1/PWM_Generator_Verilog.vdi
+# Journal file: D:/Documents/HCMUT/Year 1/Semester 2/Logic Design - Lab/btl/btl.runs/impl_1\vivado.jou
+# Running On: DESKTOP-NS9R8A2, OS: Windows, CPU Frequency: 2904 MHz, CPU Physical cores: 6, Host memory: 17114 MB
+#-----------------------------------------------------------
+source PWM_Generator_Verilog.tcl -notrace

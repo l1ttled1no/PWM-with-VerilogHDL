@@ -1,0 +1,28 @@
+#-----------------------------------------------------------
+# Vivado v2022.2.2 (64-bit)
+# SW Build 3788238 on Tue Feb 21 20:00:34 MST 2023
+# IP Build 3783773 on Tue Feb 21 23:41:56 MST 2023
+# Start of session at: Fri May  5 22:40:04 2023
+# Process ID: 10268
+# Current directory: D:/Documents/HCMUT/Year 1/Semester 2/Logic Design - Lab/btl
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent23392 D:\Documents\HCMUT\Year 1\Semester 2\Logic Design - Lab\btl\btl.xpr
+# Log file: D:/Documents/HCMUT/Year 1/Semester 2/Logic Design - Lab/btl/vivado.log
+# Journal file: D:/Documents/HCMUT/Year 1/Semester 2/Logic Design - Lab/btl\vivado.jou
+# Running On: DESKTOP-NS9R8A2, OS: Windows, CPU Frequency: 2904 MHz, CPU Physical cores: 6, Host memory: 17114 MB
+#-----------------------------------------------------------
+start_gui
+open_project {D:/Documents/HCMUT/Year 1/Semester 2/Logic Design - Lab/btl/btl.xpr}
+update_compile_order -fileset sources_1
+reset_run impl_1
+launch_runs impl_1 -jobs 12
+wait_on_run impl_1
+open_run synth_1 -name synth_1
+create_bd_design "design_1"
+update_compile_order -fileset sources_1
+generate_target all [get_files  {{D:/Documents/HCMUT/Year 1/Semester 2/Logic Design - Lab/btl/btl.srcs/sources_1/bd/design_1/design_1.bd}}]
+export_ip_user_files -of_objects [get_files {{D:/Documents/HCMUT/Year 1/Semester 2/Logic Design - Lab/btl/btl.srcs/sources_1/bd/design_1/design_1.bd}}] -no_script -sync -force -quiet
+create_ip_run [get_files -of_objects [get_fileset sources_1] {{D:/Documents/HCMUT/Year 1/Semester 2/Logic Design - Lab/btl/btl.srcs/sources_1/bd/design_1/design_1.bd}}]
+export_simulation -of_objects [get_files {{D:/Documents/HCMUT/Year 1/Semester 2/Logic Design - Lab/btl/btl.srcs/sources_1/bd/design_1/design_1.bd}}] -directory {D:/Documents/HCMUT/Year 1/Semester 2/Logic Design - Lab/btl/btl.ip_user_files/sim_scripts} -ip_user_files_dir {D:/Documents/HCMUT/Year 1/Semester 2/Logic Design - Lab/btl/btl.ip_user_files} -ipstatic_source_dir {D:/Documents/HCMUT/Year 1/Semester 2/Logic Design - Lab/btl/btl.ip_user_files/ipstatic} -lib_map_path [list {modelsim=D:/Documents/HCMUT/Year 1/Semester 2/Logic Design - Lab/btl/btl.cache/compile_simlib/modelsim} {questa=D:/Documents/HCMUT/Year 1/Semester 2/Logic Design - Lab/btl/btl.cache/compile_simlib/questa} {riviera=D:/Documents/HCMUT/Year 1/Semester 2/Logic Design - Lab/btl/btl.cache/compile_simlib/riviera} {activehdl=D:/Documents/HCMUT/Year 1/Semester 2/Logic Design - Lab/btl/btl.cache/compile_simlib/activehdl}] -use_ip_compiled_libs -force -quiet
+open_bd_design {D:/Documents/HCMUT/Year 1/Semester 2/Logic Design - Lab/btl/btl.srcs/sources_1/bd/design_1/design_1.bd}
+close_design
+synth_design -rtl -rtl_skip_mlo -name rtl_1

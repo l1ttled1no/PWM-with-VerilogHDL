@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7z020clg400-1" LaunchTime="1683301327">
+  <File Type="ROUTE-PWR" Name="PWM_Generator_Verilog_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="PWM_Generator_Verilog.tcl"/>
+  <File Type="ROUTE-PWR-SUM" Name="PWM_Generator_Verilog_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="PWM_Generator_Verilog_reports.tcl"/>
+  <File Type="BITSTR-MSK" Name="PWM_Generator_Verilog.msk"/>
+  <File Type="ROUTE-CLK" Name="PWM_Generator_Verilog_clock_utilization_routed.rpt"/>
+  <File Type="RDI-RDI" Name="PWM_Generator_Verilog.vdi"/>
+  <File Type="BG-BIT" Name="PWM_Generator_Verilog.bit"/>
+  <File Type="BG-DRC" Name="PWM_Generator_Verilog.drc"/>
+  <File Type="BG-BGN" Name="PWM_Generator_Verilog.bgn"/>
+  <File Type="BG-BIN" Name="PWM_Generator_Verilog.bin"/>
+  <File Type="BITSTR-RBT" Name="PWM_Generator_Verilog.rbt"/>
+  <File Type="BITSTR-NKY" Name="PWM_Generator_Verilog.nky"/>
+  <File Type="BITSTR-BMM" Name="PWM_Generator_Verilog_bd.bmm"/>
+  <File Type="BITSTR-MMI" Name="PWM_Generator_Verilog.mmi"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="PWM_Generator_Verilog_methodology_drc_routed.rpt"/>
+  <File Type="BITSTR-SYSDEF" Name="PWM_Generator_Verilog.sysdef"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="PWM_Generator_Verilog_methodology_drc_routed.pb"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="PWM_Generator_Verilog.ltx"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <File Type="OPT-DRC" Name="PWM_Generator_Verilog_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="PWM_Generator_Verilog.hwdef"/>
+  <File Type="PLACE-IO" Name="PWM_Generator_Verilog_io_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="PWM_Generator_Verilog_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="PWM_Generator_Verilog_utilization_placed.pb"/>
+  <File Type="ROUTE-RQS" Name="PWM_Generator_Verilog_routed.rqs"/>
+  <File Type="PLACE-CTRL" Name="PWM_Generator_Verilog_control_sets_placed.rpt"/>
+  <File Type="ROUTE-RQS-RPT" Name="route_report_qor_suggestions_0.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="PWM_Generator_Verilog_incremental_reuse_pre_placed.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS-RPT" Name="postroute_physopt_report_qor_suggestions_0.rpt"/>
+  <File Type="ROUTE-DRC" Name="PWM_Generator_Verilog_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="PWM_Generator_Verilog_drc_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="PWM_Generator_Verilog_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="PWM_Generator_Verilog_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="PWM_Generator_Verilog_route_status.pb"/>
+  <File Type="ROUTE-DCP" Name="PWM_Generator_Verilog_routed.dcp"/>
+  <File Type="ROUTE-ERROR-DCP" Name="PWM_Generator_Verilog_routed_error.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="PWM_Generator_Verilog_routed_bb.dcp"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="PWM_Generator_Verilog_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="PWM_Generator_Verilog_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="PWM_Generator_Verilog_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-BUS-SKEW" Name="PWM_Generator_Verilog_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="PWM_Generator_Verilog_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="PWM_Generator_Verilog_bus_skew_routed.rpx"/>
+  <File Type="OPT-DCP" Name="PWM_Generator_Verilog_opt.dcp"/>
+  <File Type="PLACE-DCP" Name="PWM_Generator_Verilog_placed.dcp"/>
+  <File Type="PWROPT-DCP" Name="PWM_Generator_Verilog_pwropt.dcp"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="PWM_Generator_Verilog_postplace_pwropt.dcp"/>
+  <File Type="PHYSOPT-DCP" Name="PWM_Generator_Verilog_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="PWM_Generator_Verilog_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="PWM_Generator_Verilog_postroute_physopt_bb.dcp"/>
+  <File Type="ROUTE-DRC-RPX" Name="PWM_Generator_Verilog_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="PWM_Generator_Verilog_methodology_drc_routed.rpx"/>
+  <File Type="PDI-FILE" Name="PWM_Generator_Verilog.pdi"/>
+  <File Type="RCFI_FILE" Name="PWM_Generator_Verilog.rcfi"/>
+  <File Type="CFI_FILE" Name="PWM_Generator_Verilog.cfi"/>
+  <File Type="RNPI_FILE" Name="PWM_Generator_Verilog.rnpi"/>
+  <File Type="NPI_FILE" Name="PWM_Generator_Verilog.npi"/>
+  <File Type="RBD_FILE" Name="PWM_Generator_Verilog.rbd"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS" Name="PWM_Generator_Verilog_postroute_physopted.rqs"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/PWM_Generator_Verilog.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="PWM_Generator_Verilog"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/imports/Vivado/Arty-Z7-20-Master.xdc">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Arty-Z7-20-Master.xdc"/>
+        <Attr Name="ImportTime" Val="1676355088"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1">
+    <Filter Type="Utils"/>
+    <File Path="$PSRCDIR/utils_1/imports/synth_1/PWM_Generator_Verilog.dcp">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedInSteps" Val="synth_1"/>
+        <Attr Name="AutoDcp" Val="1"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2022"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+    <Step Id="write_device_image"/>
+  </Strategy>
+</GenRun>
