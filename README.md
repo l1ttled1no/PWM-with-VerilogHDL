@@ -1,5 +1,5 @@
 # Pulse Width Modulation Generator using Verilog HDL
-<small>Last updated: 07/05/2023 </small>
+<small>Last updated: 05/2023 </small>
 
 In this project, we will create a Pulse Width Modulation (PWM) generator using Verilog HDL and implementing on the FPGA Digilent Arty Z7-20 board. 
 
